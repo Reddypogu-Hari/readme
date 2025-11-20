@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=800080&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Reddypogu+Siva+Sankar+Hari+Prasad ;💻+Python+Full+Stack+Developer;🚀+Always+Learning+New+Things" alt="Typing SVG" />
-
-</p>
 <h3 align="center">A Passionate Python Full Stack Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Reddypogu-Hari/readme/blob/main/gif.gif">
