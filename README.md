@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">A Passionate Python Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/Reddypogu-Hari/readme/blob/main/gif.gif">
 
 - 🔭 I’m exploring ways to deepen my learning and skill set.
 
